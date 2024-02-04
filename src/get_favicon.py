@@ -12,4 +12,4 @@ if __name__ == "__main__":
             f.write(resp.content)
 
     else:
-        print("Host doesn't found")
+        print("Host not found")
